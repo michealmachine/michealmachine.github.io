@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Gray Blowfish"
+contentDir = 'content/en'
+
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Gray Blowfish"
+  image = "img/avatar.png"
+  headline = "This is my very simple profile website with my links"
+  bio = "A little bit about you"
+   links = [
+     { link = "https://nunocoracao.github.io/blowfish/" },
+     { github = "https://github.com/nunocoracao/blowfish" },
+     { x-twitter = "https://twitter.com/burufugu" }
+   ]
