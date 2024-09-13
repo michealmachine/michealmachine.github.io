@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nunocoracao/blowfish_template/issues"
   },
-  "homepage": "https://github.com/nunocoracao/blowfish_template#readme"
+  "homepage": "https://github.com/nunocoracao/blowfish_template#readme",
+  "dependencies": {
+    "blowfish_template": "file:"
+  }
 }
