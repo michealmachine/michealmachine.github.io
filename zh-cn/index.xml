@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Double2and9&#39;s page</title>
+    <link>http://localhost:9584/zh-cn/</link>
+    <description>Recent content on Double2and9&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 Double2and9</copyright>
+    <atom:link href="http://localhost:9584/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
