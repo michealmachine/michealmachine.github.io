@@ -1,0 +1,26 @@
+languageCode = "zh-cn"
+languageName = "Chinese"
+weight = 3
+title = "Double2and9's page"
+contentDir = 'content/cn'
+
+
+[params]
+  displayName = "CH"
+  isoCode = "zh-cn"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Double2and9"
+  image = "img/avatar.png"
+  headline = "This is Double2and9'Blog. Learn and Think"
+  bio = "A little bit about you"
+   links = [
+     { link = "https://michealmachine.github.io" },
+     { github = "https://github.com/michealmachine" },
+     { x-twitter = "https://twitter.com/burufugu" }
+   ]
